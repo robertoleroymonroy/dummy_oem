@@ -79,5 +79,32 @@
         ],
         "uri": "172.30.0.1",
         "is_active": true
-    }
+    },
+    "advertisements": [
+        {
+            "id": 1,
+            "title": "Perros sementales pura sangre",
+            "description": "RENTA VENTA DE SEMENTALES DE BORREGO DORPER PURA SANGRE 722-267-1724",
+            "aditions": [],
+            "images": [
+                {
+                    "original_bucket_path": "https://cdn.shortpixel.ai/client/q_glossy,ret_img/http://carderbulldogs.com/wp-content/uploads/2018/10/pug-cachorros-de-calidad-a-meses-sin-intereses-D_NQ_NP_270901-MLM20441237103_102015-F.jpg",
+                    "thumb_bucket_path": "",
+                    "is_printable": true
+                }
+            ],
+            "created_at": "2020-28-09",
+            "category": {
+                "category": "Animales",
+                "externalId": "202"
+            },
+            "subcategory": {
+                "subcategory": "ANIMALES",
+                "externalId": "1206"
+            },
+            "start_date": "2020-30-09",
+            "end_date": "2020-09-10",
+            "newspaper": "21312321312312"
+        }
+    ]
 }
