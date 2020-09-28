@@ -1,0 +1,20 @@
+{
+    "context":{
+            "id": "21312321312312",
+            "key": "morelos",
+            "external_id": "456",
+            "display_name": "",
+            "color_primary": "",
+            "color_secundary": "",
+            "color_tertiary": "",
+            "logo": "",
+            "contact_number": "",
+            "ext_number": "",
+            "contact_email": "",
+            "method_payments": null,
+            "zip_codes": null,
+            "categories": null,
+            "uri": "172.30.0.1",
+            "is_active": false
+        }  
+  }
