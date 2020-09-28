@@ -140,6 +140,41 @@
             "start_date": "2020-10-11",
             "end_date": "2020-10-22",
             "newspaper": "21312321312312"
+        },
+        {
+            "id": 3,
+            "title": "CHYSLER 1978",
+            "description": "VENTA DE UN BONITO CHYSLER 1978 CLÁSICO INF. 7225-23-10-74.",
+            "aditions": [],
+            "images": [
+                {
+                    "original_bucket_path": "https://s3-us-west-2.amazonaws.com/assets.izmocars.com/inventory/103638/310547/640x480/310547-20200129-124239.jpeg",
+                    "thumb_bucket_path": "",
+                    "is_printable": true
+                },
+                {
+                    "original_bucket_path": "https://s3-us-west-2.amazonaws.com/assets.izmocars.com/inventory/103638/310547/640x480/310547-20200129-123920.jpeg",
+                    "thumb_bucket_path": "",
+                    "is_printable": false
+                },
+                {
+                    "original_bucket_path": "https://s3-us-west-2.amazonaws.com/assets.izmocars.com/inventory/103638/310547/640x480/310547-20200129-123920.jpeg",
+                    "thumb_bucket_path": "",
+                    "is_printable": false
+                }
+            ],
+            "created_at": "2020-09-28",
+            "category": {
+                "category": "Camiones y Pickups",
+                "externalId": "202"
+            },
+            "subcategory": {
+                "subcategory": "CAMIONETAS",
+                "externalId": "1206"
+            },
+            "start_date": "2020-10-11",
+            "end_date": "2020-10-22",
+            "newspaper": "21312321312312"
         }
     ]
 }
