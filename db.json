@@ -1,20 +1,47 @@
 {
-    "context":{
-            "id": "21312321312312",
-            "key": "morelos",
-            "external_id": "456",
-            "display_name": "",
-            "color_primary": "#c50007",
-            "color_secundary": "#8c0005",
-            "color_tertiary": "#f34f55",
-            "logo": "",
-            "contact_number": "",
-            "ext_number": "",
-            "contact_email": "",
-            "method_payments": null,
-            "zip_codes": null,
-            "categories": null,
-            "uri": "172.30.0.1",
-            "is_active": false
-        }  
-  }
+    "context": {
+        "id": "21312321312312",
+        "key": "morelos",
+        "external_id": "456",
+        "display_name": "Toluca",
+        "color_primary": "#c50007",
+        "color_secundary": "#8c0005",
+        "color_tertiary": "#f34f55",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/El_Sol_de_Toluca_Logo.svg/1200px-El_Sol_de_Toluca_Logo.svg.png",
+        "contact_number": "72221-47077",
+        "ext_number": "123",
+        "contact_email": "tuopinion@elsoldetoluca.com.mx",
+        "method_payments": [
+            "paypal",
+            "oxxo",
+            "tarjeta de credito"
+        ],
+        "zip_codes": [
+            12344,
+            12333,
+            44456
+        ],
+        "categories": [
+            {
+                "category": "Animales",
+                "externalId": "200",
+                "subcategories": [
+                    {
+                        "subcategory": "ANIMALES",
+                        "externalId": "1200"
+                    },
+                    {
+                        "subcategory": "ANIMALES PARA GRANJA",
+                        "externalId": "1201"
+                    },
+                    {
+                        "subcategory": "VETERINARIOS",
+                        "externalId": "1202"
+                    }
+                ]
+            }
+        ],
+        "uri": "172.30.0.1",
+        "is_active": false
+    }
+}
