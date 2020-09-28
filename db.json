@@ -39,6 +39,42 @@
                         "externalId": "1202"
                     }
                 ]
+            },
+            {
+                "category": "Autos",
+                "externalId": "201",
+                "subcategories": [
+                    {
+                        "subcategory": "ACUMULADORES",
+                        "externalId": "1203"
+                    },
+                    {
+                        "subcategory": "ACURA",
+                        "externalId": "1204"
+                    },
+                    {
+                        "subcategory": "ALFA ROMEO",
+                        "externalId": "1205"
+                    }
+                ]
+            },
+            {
+                "category": "Camiones y Pickups",
+                "externalId": "202",
+                "subcategories": [
+                    {
+                        "subcategory": "CAMIONES",
+                        "externalId": "1206"
+                    },
+                    {
+                        "subcategory": "CAMIONETAS",
+                        "externalId": "1207"
+                    },
+                    {
+                        "subcategory": "DE CARGA",
+                        "externalId": "1208"
+                    }
+                ]
             }
         ],
         "uri": "172.30.0.1",
