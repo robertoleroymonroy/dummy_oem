@@ -167,7 +167,7 @@
             "newspaper": "21312321312312"
         },
         {
-            "id": 3,
+            "id": 4,
             "title": "CHYSLER 1978",
             "description": "VENTA DE UN BONITO CHYSLER 1978 CLÁSICO INF. 7225-23-10-74.",
             "aditions": [],
@@ -190,6 +190,57 @@
             "start_date": "2020-10-11",
             "end_date": "2020-10-22",
             "newspaper": "21312321312312"
+        },
+        {
+            "id": 5,
+            "title": "Aerostar minivan",
+            "description": "AEROSTAR MINIVAN ESTÁNDAR 1992, REMATO TUBOS, TIRANTES PARA ESTRUCTURA. 722-681-08-43.",
+            "aditions": [],
+            "images": [
+                {
+                    "original_bucket_path": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ford_Aerostar_LWB_1992-97.jpg",
+                    "thumb_bucket_path": "",
+                    "is_printable": true
+                }
+            ],
+            "created_at": "2020-09-28",
+            "category": {
+                "category": "Camiones y Pickups",
+                "externalId": "202"
+            },
+            "subcategory": {
+                "subcategory": "CAMIONETAS",
+                "externalId": "1206"
+            },
+            "start_date": "2020-10-11",
+            "end_date": "2020-10-22",
+            "newspaper": "21312321312312"
+        },
+        {
+            "id": 6,
+            "title": "Combi a domicilio",
+            "description": "Combi a domicilio servicio 100% garantizado 5566998877",
+            "aditions": [],
+            "images": [
+                {
+                    "original_bucket_path": "https://helderbinimelis.files.wordpress.com/2011/03/img_1209.jpg",
+                    "thumb_bucket_path": "",
+                    "is_printable": true
+                }
+            ],
+            "created_at": "2020-09-28",
+            "category": {
+                "category": "Camiones y Pickups",
+                "externalId": "202"
+            },
+            "subcategory": {
+                "subcategory": "CAMIONES",
+                "externalId": "1206"
+            },
+            "start_date": "2020-10-11",
+            "end_date": "2020-10-22",
+            "newspaper": "21312321312312"
         }
     ]
 }
+
