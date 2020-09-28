@@ -108,6 +108,31 @@
         },
         {
             "id": 2,
+            "title": "Veterinario zamarripa",
+            "description": "Servicio de veterinario a domicilio tel.722-267-1724",
+            "aditions": [],
+            "images": [
+                {
+                    "original_bucket_path": "https://imagenes.20minutos.es/files/image_656_370/files/fp/uploads/imagenes/2017/06/01/125505.r_d.300-169.jpg",
+                    "thumb_bucket_path": "",
+                    "is_printable": true
+                }
+            ],
+            "created_at": "2020-28-09",
+            "category": {
+                "category": "Animales",
+                "externalId": "202"
+            },
+            "subcategory": {
+                "subcategory": "VETERINARIOS",
+                "externalId": "1206"
+            },
+            "start_date": "2020-09-30",
+            "end_date": "2020-10-09",
+            "newspaper": "21312321312312"
+        },
+        {
+            "id": 3,
             "title": "Mazda3 2018",
             "description": "MAZDA3 2018 ¡PERFECTO!, 28000 KM. AUTOMÁTICO, ÚNICO DUEÑO, $169,990.00 DISTRITO FEDERAL 56-1550-8029.",
             "aditions": [],
